@@ -104,6 +104,7 @@
 // @match        *://*.orlandosentinel.com/*
 // @match        *://*.pzc.nl/*
 // @match        *://*.paloaltoonline.com/*
+// @match        *://*.patreon.com/*
 // @match        *://*.parool.nl/*
 // @match        *://*.postimees.ee/*
 // @match        *://*.qz.com/*
